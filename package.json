@@ -1,0 +1,24 @@
+{
+  "name": "footballkik",
+  "version": "1.0.0",
+  "description": "A chat app build with node.js express, mongoose/mongodb and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushilRaja/footballkikk.git"
+  },
+  "author": "Raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushilRaja/footballkikk/issues"
+  },
+  "homepage": "https://github.com/SushilRaja/footballkikk#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
